@@ -1,0 +1,2639 @@
+[
+   {
+      "redis_key" : "1:nardo:0000:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_level" : "1",
+         "bestow_points" : "50",
+         "bestow_prizes" : "ILLUMINA",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "replace_text_id" : "slot1-alt",
+         "slot_id" : "slot1",
+         "text" : "Click to Get the Illumina",
+         "utc" : "2020-03-19 12:48:24"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:0000:slot1-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_room" : "0001",
+         "read_level" : "0",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1-alt",
+         "text" : "Click to start sending messages",
+         "utc" : "2019-12-28 19:16:18"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:6C86:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_level" : "1",
+         "bestow_points" : "100",
+         "bestow_prizes" : "ILLUMINA",
+         "bestow_room_passes" : "000?,AAA?",
+         "crypt_key" : "79AA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "replace_text_id" : "slot1-alt",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "Illumina",
+         "utc" : "2020-01-01 20:48:34"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:6C86:slot1-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_room" : "0006",
+         "slot_id" : "slot1-alt",
+         "text" : "Post message",
+         "utc" : "2019-12-28 16:48:56"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:6C86:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_prizes" : "KILL_ILLUMINA",
+         "crypt_key" : "79AA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Remove Illumina",
+         "utc" : "2019-12-25 20:26:43"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:6C86:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_prizes" : "LEVEL_0_RESET",
+         "crypt_key" : "79AA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "Reset to Level 0",
+         "utc" : "2019-12-25 20:27:16"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:6C86:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_prizes" : "POINTS_0_RESET",
+         "crypt_key" : "79AA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "Reset to 0 Points",
+         "utc" : "2019-12-25 20:32:27"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:6C86:slot5",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_prizes" : "CLEAR_ROOM_PASSES",
+         "crypt_key" : "79AA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "100",
+         "slot_id" : "slot5",
+         "smoke_screen" : "...",
+         "text" : "Remove Room Passes",
+         "utc" : "2019-12-31 01:16:35"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:AAAA:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "IATE",
+         "link_room" : "INIT",
+         "read_level" : "1",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "The path of the initiate",
+         "text" : "The path of the INITIATE",
+         "utc" : "2019-12-29 21:00:11"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:AAAA:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "MINA",
+         "link_room" : "ILLU",
+         "read_level" : "20",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot2",
+         "smoke_screen" : "unlocks the Illumina.",
+         "text" : "unlocks the Illumina.",
+         "utc" : "2019-12-13 10:13:52"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:AAAA:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot3",
+         "text" : "An accelerated path exists",
+         "utc" : "2019-12-13 10:14:33"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:AAAA:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "IRED",
+         "link_room" : "ACQU",
+         "read_level" : "1",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot4",
+         "smoke_screen" : "for those with acquired skills",
+         "text" : "for those with acquired skills",
+         "utc" : "2019-12-25 20:13:59"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:AAAA:slot5",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "PLAY",
+         "link_room" : "JUST",
+         "read_level" : "1",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot5",
+         "smoke_screen" : "Or you can just play.",
+         "text" : "Or you can just play.",
+         "utc" : "2019-12-31 01:18:18"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:ACQU:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "IRED",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "replace_text_id" : "slot1-alt",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "text" : "Welcome.",
+         "utc" : "2019-12-18 18:26:13"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:ACQU:slot1-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "slot_id" : "slot1-alt",
+         "text" : "The year he was born.",
+         "utc" : "2019-12-31 03:01:06"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:ACQU:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "ORED",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "replace_text_id" : "slot2-alt",
+         "slot_id" : "slot2",
+         "text" : "1452",
+         "utc" : "2019-12-23 00:36:30"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:ACQU:slot2-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "slot_id" : "slot2-alt",
+         "text" : "rk. ak. ak. ak. ak.",
+         "utc" : "2019-12-31 03:00:54"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:ACQU:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "99CB",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "slot_id" : "slot3",
+         "text" : "The Last Supper! (?B??)",
+         "utc" : "2019-12-31 03:03:27"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:ACQU:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "0BED",
+         "device_id" : "WEB-APP-DEVICE",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "text" : "The Last Supper!",
+         "utc" : "2019-12-31 03:01:26"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:ACQU:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "slot_id" : "slot4-alt",
+         "text" : "Saint Jerome in the Wilderness (Cancer)",
+         "utc" : "2019-12-31 03:07:14"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:ACQU:slot5",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_level" : "1",
+         "bestow_points" : "20",
+         "bestow_prizes" : "FINISHED_ACQUIRED",
+         "crypt_key" : "0JXK",
+         "device_id" : "WEB-APP-DEVICE",
+         "replace_text_id" : "slot5-alt",
+         "slot_id" : "slot5",
+         "text" : "Saint Jerome in the Wilderness",
+         "utc" : "2019-12-31 03:17:38"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:ACQU:slot5-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "AAAA",
+         "link_room" : "DEAD",
+         "slot_id" : "slot5-alt",
+         "text" : "tap here",
+         "utc" : "2019-12-31 03:08:36"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:AWAY:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_level" : "5",
+         "bestow_points" : "5",
+         "crypt_key" : "5TCA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot1-alt",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "One of the letters in the dirt is unreadable.",
+         "utc" : "2019-12-30 02:52:41"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:AWAY:slot1-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "5SCA",
+         "read_level" : "6",
+         "slot_id" : "slot1-alt",
+         "text" : "?SCA",
+         "utc" : "2019-12-30 03:01:06"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:AWAY:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "JSCA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot2-alt",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Dear Bela,  follow my clues.",
+         "utc" : "2019-12-30 03:01:16"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:AWAY:slot2-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "slot_id" : "slot2-alt",
+         "text" : "rk. before continuing.",
+         "utc" : "2019-12-30 19:50:26"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:AWAY:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot3-alt",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "They will lead you to the briar patch.",
+         "utc" : "2019-12-30 02:54:41"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:AWAY:slot3-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "slot_id" : "slot3-alt",
+         "text" : "ak. (Tap the right snowflake twice)",
+         "utc" : "2019-12-30 02:59:27"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:AWAY:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_room_passes" : "FROM",
+         "crypt_key" : "BDAC",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "All my love - Luca",
+         "utc" : "2019-12-30 02:38:23"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:AWAY:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "slot_id" : "slot4-alt",
+         "text" : "ak. again",
+         "utc" : "2019-12-30 02:44:33"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:AWAY:slot5",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "D9B6",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot5-alt",
+         "slot_id" : "slot5",
+         "smoke_screen" : "...",
+         "text" : "Remember where you are from. rk.",
+         "utc" : "2019-12-31 01:33:09"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:AWAY:slot5-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "AAAA",
+         "link_room" : "FROM",
+         "read_level" : "6",
+         "slot_id" : "slot5-alt",
+         "text" : "Remember where you are from. rk.",
+         "utc" : "2019-12-30 02:28:41"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:BELA:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "You see something scratched in the dirt.",
+         "utc" : "2019-12-28 21:03:16"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:BELA:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Dear Bela, follow my clues.",
+         "utc" : "2019-12-28 21:19:53"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:BELA:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "They will lead you to the briar patch.",
+         "utc" : "2019-12-28 21:23:17"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:BELA:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "bestow_room_passes" : "LOVE",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "All my love - Luca",
+         "utc" : "2019-12-28 21:30:37"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:BELA:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_room" : "LOVE",
+         "read_level" : "2",
+         "slot_id" : "slot4-alt",
+         "text" : "LOVE",
+         "utc" : "2019-12-28 21:00:10"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:BOOT:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_room" : "OHNO",
+         "read_level" : "2",
+         "slot_id" : "slot4-alt",
+         "text" : "OHNO",
+         "utc" : "2019-12-28 20:44:48"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:COME:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_level" : "3",
+         "bestow_points" : "3",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot1-alt",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "You see numbers scratched in the dirt.",
+         "utc" : "2019-12-29 21:42:19"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:COME:slot1-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "1234",
+         "read_level" : "4",
+         "slot_id" : "slot1-alt",
+         "text" : "1234",
+         "utc" : "2019-12-29 22:14:38"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:COME:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "1234",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Dear Bela,  follow my clues.",
+         "utc" : "2019-12-29 22:14:49"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:COME:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "1234",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "They will lead you to the briar patch.",
+         "utc" : "2019-12-29 22:14:58"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:COME:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "1234",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "All my love - Luca",
+         "utc" : "2019-12-29 22:14:24"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:COME:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "4321",
+         "read_level" : "4",
+         "slot_id" : "slot4-alt",
+         "text" : "rv.",
+         "utc" : "2019-12-29 22:07:58"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:COME:slot5",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_room_passes" : "KEEP",
+         "crypt_key" : "4321",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot5-alt",
+         "slot_id" : "slot5",
+         "smoke_screen" : "...",
+         "text" : "Keep going!",
+         "utc" : "2019-12-29 22:49:21"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:COME:slot5-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "4321",
+         "link_room" : "KEEP",
+         "read_level" : "4",
+         "slot_id" : "slot5-alt",
+         "text" : "Keep going!",
+         "utc" : "2019-12-29 22:49:00"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:DEAD:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_prizes" : "ILLUMINA",
+         "bestow_room_passes" : "000?",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot1-alt",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "Congratulations!",
+         "utc" : "2019-12-30 14:43:14"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:DEAD:slot1-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "slot_id" : "slot1-alt",
+         "text" : "The Illumina is enabled!",
+         "utc" : "2019-12-30 14:43:34"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:DEAD:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Tap the Illumina to refresh a room.",
+         "utc" : "2019-12-30 14:45:00"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:DEAD:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "Click a blank line to send a message.",
+         "utc" : "2019-12-30 14:46:23"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:DEAD:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "Sending a message requires a token.",
+         "utc" : "2019-12-30 14:46:17"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:DEAD:slot5",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "AAAA",
+         "link_room" : "0009",
+         "read_level" : "20",
+         "replace_text_id" : "slot5-alt",
+         "slot_id" : "slot5",
+         "smoke_screen" : "...",
+         "text" : "Rooms 000A-0009 are open!",
+         "utc" : "2019-12-30 14:46:08"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:DEAD:slot5-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "AAAA",
+         "link_room" : "000A",
+         "slot_id" : "slot5-alt",
+         "text" : "Rooms 000A-0009 are open! (tap here)",
+         "utc" : "2019-12-30 14:42:11"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:DONT:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_level" : "2",
+         "bestow_points" : "2",
+         "crypt_key" : "BBAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot1-alt",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "You see letters scratched in the dirt.",
+         "utc" : "2019-12-29 21:58:20"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:DONT:slot1-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "SSSS",
+         "read_level" : "3",
+         "slot_id" : "slot1-alt",
+         "text" : "SSSS",
+         "utc" : "2019-12-29 21:15:42"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:DONT:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "SSSS",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Dear Bela,  follow my clues.",
+         "utc" : "2019-12-29 21:58:33"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:DONT:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "SSSS",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "They will lead you to the briar patch.",
+         "utc" : "2019-12-29 21:58:40"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:DONT:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "SSSS",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot4-alt",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "All my love - Luca",
+         "utc" : "2019-12-29 21:59:22"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:DONT:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "AAAA",
+         "read_level" : "3",
+         "slot_id" : "slot4-alt",
+         "text" : "rk.",
+         "utc" : "2019-12-29 22:20:09"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:DONT:slot5",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_room_passes" : "COME",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot5-alt",
+         "slot_id" : "slot5",
+         "text" : "Come quickly.",
+         "utc" : "2019-12-29 22:00:45"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:DONT:slot5-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "AAAA",
+         "link_room" : "COME",
+         "read_level" : "3",
+         "slot_id" : "slot5-alt",
+         "smoke_screen" : "...",
+         "text" : "Come quickly.",
+         "utc" : "2019-12-29 22:00:20"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:FARE:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "You see something scratched in the dirt.",
+         "utc" : "2019-12-28 21:02:51"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:FARE:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Dear Bela, follow my clues.",
+         "utc" : "2019-12-28 21:19:41"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:FARE:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "They will lead you to the briar patch.",
+         "utc" : "2019-12-28 21:22:55"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:FARE:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "bestow_room_passes" : "WELL",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "All my love - Luca",
+         "utc" : "2019-12-28 21:29:56"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:FARE:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_room" : "WELL",
+         "read_level" : "2",
+         "slot_id" : "slot4-alt",
+         "text" : "WELL",
+         "utc" : "2019-12-28 20:59:30"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:FROM:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_level" : "6",
+         "bestow_points" : "6",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "replace_text_id" : "slot1-alt",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "Two letters in the dirt are unreadable.",
+         "utc" : "2019-12-30 03:27:52"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:FROM:slot1-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "YK3E",
+         "read_level" : "7",
+         "slot_id" : "slot1-alt",
+         "text" : "?K3?  (hint: periods go at the end)",
+         "utc" : "2019-12-30 03:42:13"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:FROM:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "YK3E",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Dear Bela,  follow my clues.",
+         "utc" : "2019-12-30 03:24:39"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:FROM:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "crypt_key" : "YK3E",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "They will lead you to the briar patch.",
+         "utc" : "2019-12-30 03:25:10"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:FROM:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "YK3E",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "All my love - Luca",
+         "utc" : "2019-12-30 03:26:46"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:FROM:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "ZL4F",
+         "read_level" : "0",
+         "slot_id" : "slot4-alt",
+         "text" : "Tap here, then ak. twice.",
+         "utc" : "2019-12-30 03:26:23"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:FROM:slot5",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_room_passes" : "NARD",
+         "crypt_key" : "B99C",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot5-alt",
+         "slot_id" : "slot5",
+         "smoke_screen" : "...",
+         "text" : "You are awesome.",
+         "utc" : "2019-12-30 03:30:08"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:FROM:slot5-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "AAAA",
+         "link_room" : "NARD",
+         "read_level" : "7",
+         "slot_id" : "slot5-alt",
+         "text" : "Where would nard go?  rk.",
+         "utc" : "2019-12-30 03:33:27"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HEIS:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_level" : "9",
+         "bestow_points" : "9",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot1-alt",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "You see something scratched in the dirt.",
+         "utc" : "2020-03-18 13:10:28"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HEIS:slot1-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "6789",
+         "read_level" : "10",
+         "slot_id" : "slot1-alt",
+         "smoke_screen" : "...",
+         "text" : "320 330 ? ?",
+         "utc" : "2019-12-31 01:58:00"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HEIS:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "6789",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Dear Bela, follow my clues.",
+         "utc" : "2019-12-31 01:58:22"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HEIS:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "6789",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "They will lead you to the briar patch.",
+         "utc" : "2019-12-31 01:58:32"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HEIS:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "6789",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "All my love - Luca",
+         "utc" : "2019-12-31 02:04:09"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HEIS:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "2",
+         "slot_id" : "slot4-alt",
+         "text" : "change failure to success",
+         "utc" : "2019-12-31 02:05:18"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HEIS:slot5",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_room_passes" : "HERE",
+         "crypt_key" : "5789",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot5-alt",
+         "slot_id" : "slot5",
+         "smoke_screen" : "...",
+         "text" : "Here, unscramble from rk.",
+         "utc" : "2019-12-31 02:15:21"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HEIS:slot5-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "AAAF",
+         "link_room" : "HERE",
+         "read_level" : "10",
+         "slot_id" : "slot5-alt",
+         "smoke_screen" : "...",
+         "text" : "Here, unscramble from rk.",
+         "utc" : "2019-12-31 02:17:34"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HERE:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_level" : "10",
+         "bestow_points" : "10",
+         "crypt_key" : "AAAF",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot1-alt",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "You see someting scratched in the dirt.",
+         "utc" : "2019-12-31 02:18:12"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HERE:slot1-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "CB3H",
+         "read_level" : "11",
+         "slot_id" : "slot1-alt",
+         "text" : "03  02  30  08",
+         "utc" : "2019-12-31 02:33:36"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HERE:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "CB3H",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot2-alt",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Dear Bela, follow my clues.",
+         "utc" : "2019-12-31 02:34:45"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HERE:slot2-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "CB39",
+         "read_level" : "11",
+         "slot_id" : "slot2-alt",
+         "text" : "move easterly to westerly",
+         "utc" : "2019-12-31 02:41:40"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HERE:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "CB39",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "They will lead you to the briar patch.",
+         "utc" : "2019-12-31 02:36:35"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HERE:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "CB39",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "All my love - Luca",
+         "utc" : "2019-12-31 02:42:02"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HERE:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "7DB8",
+         "read_level" : "11",
+         "slot_id" : "slot4-alt",
+         "text" : "rk. ak. ak. ak.",
+         "utc" : "2019-12-31 02:38:49"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HERE:slot5",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_room_passes" : "ITIS",
+         "crypt_key" : "7DB8",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot5-alt",
+         "slot_id" : "slot5",
+         "smoke_screen" : "...",
+         "text" : "it is two of these words",
+         "utc" : "2019-12-31 02:40:28"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HERE:slot5-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_room" : "ITIS",
+         "read_level" : "11",
+         "replace_text_id" : "slot5-alt",
+         "slot_id" : "slot5-alt",
+         "smoke_screen" : "...",
+         "text" : "it is two of these words",
+         "utc" : "2019-12-31 02:41:19"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HOPE:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "You see someting scratched in the dirt.",
+         "utc" : "2019-12-28 20:58:11"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HOPE:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Dear Bela, follow my clues.",
+         "utc" : "2019-12-28 21:19:21"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HOPE:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "They will lead you to the briar patch.",
+         "utc" : "2019-12-28 21:22:34"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HOPE:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "bestow_room_passes" : "LOST",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "All my love - Luca",
+         "utc" : "2019-12-28 21:29:10"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:HOPE:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_room" : "LOST",
+         "read_level" : "2",
+         "slot_id" : "slot4-alt",
+         "smoke_screen" : "...",
+         "text" : "LOST",
+         "utc" : "2019-12-28 20:58:25"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:INIT:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "IATE",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "IATE",
+         "read_level" : "0",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "text" : "To unlock the Illumina,",
+         "utc" : "2020-03-19 12:53:17"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:INIT:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "IATE",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot2",
+         "text" : "you must help Nardo",
+         "utc" : "2019-12-29 21:46:00"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:INIT:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "IATE",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "slot_id" : "slot3",
+         "text" : "find his rabbit, Luca.",
+         "utc" : "2019-12-29 21:45:50"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:INIT:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "IATE",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "text" : "Blue text reveals",
+         "utc" : "2019-12-29 21:46:09"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:INIT:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "AAAA",
+         "read_level" : "1",
+         "slot_id" : "slot4-alt",
+         "text" : "rk. (use the red key)",
+         "utc" : "2019-12-29 21:48:23"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:INIT:slot5",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "IATE",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "replace_text_id" : "slot5-alt",
+         "slot_id" : "slot5",
+         "text" : "where to go and keys to use.",
+         "utc" : "2019-12-29 21:45:31"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:INIT:slot5-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_room_passes" : "OHMY",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_room" : "OHMY",
+         "read_level" : "1",
+         "slot_id" : "slot5-alt",
+         "text" : "Oh My!",
+         "utc" : "2019-12-29 20:54:54"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:ITIS:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_level" : "11",
+         "bestow_points" : "11",
+         "crypt_key" : "AAVJ",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot1-alt",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "You see someting scratched in the dirt.",
+         "utc" : "2019-12-31 02:47:34"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:ITIS:slot1-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "FHR2",
+         "read_level" : "12",
+         "slot_id" : "slot1-alt",
+         "smoke_screen" : "...",
+         "text" : "?H??  (fix periods, find letters, unscramble)",
+         "utc" : "2019-12-31 02:49:00"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:ITIS:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "FHR2",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Dear Bela, follow my clues.",
+         "utc" : "2019-12-31 02:49:27"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:ITIS:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "FHR2",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "They will lead you to the briar patch.",
+         "utc" : "2019-12-31 02:49:39"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:ITIS:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "FHR2",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "All my love - Luca",
+         "utc" : "2019-12-31 02:52:12"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:ITIS:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "89C8",
+         "read_level" : "2",
+         "slot_id" : "slot4-alt",
+         "text" : "50 75 100 125 ak.",
+         "utc" : "2019-12-31 02:54:34"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:ITIS:slot5",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_room_passes" : "DEAD",
+         "crypt_key" : "89C8",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot5-alt",
+         "slot_id" : "slot5",
+         "smoke_screen" : "...",
+         "text" : "dolphins, elephants and dingos",
+         "utc" : "2019-12-31 02:57:36"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:ITIS:slot5-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "AAAA",
+         "link_room" : "DEAD",
+         "read_level" : "12",
+         "slot_id" : "slot5-alt",
+         "text" : "dolphins, elephants and dingos",
+         "utc" : "2019-12-31 02:57:46"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:JUST:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "PLAY",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "replace_text_id" : "slot1-alt",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "text" : "Click to start",
+         "utc" : "2019-12-23 21:33:54"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:JUST:slot1-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "PLAY",
+         "slot_id" : "slot1-alt",
+         "text" : "Lady with an Ermine. (Cancer)",
+         "utc" : "2019-12-31 03:14:56"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:JUST:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "5",
+         "crypt_key" : "3L41",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "replace_text_id" : "slot2-alt",
+         "slot_id" : "slot2",
+         "text" : "Lady with an Ermine.",
+         "utc" : "2019-12-31 03:15:03"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:JUST:slot2-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "3L41",
+         "slot_id" : "slot2-alt",
+         "text" : "Portrait of Ginevra Benci (Aries)",
+         "utc" : "2019-12-31 03:11:01"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:JUST:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "10",
+         "crypt_key" : "UAHR",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "replace_text_id" : "slot3-alt",
+         "slot_id" : "slot3",
+         "text" : "Portrait of Ginevra Benci",
+         "utc" : "2019-12-31 03:14:30"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:JUST:slot3-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "UJHR",
+         "slot_id" : "slot3-alt",
+         "text" : "Deluge over a city (Capricorn)",
+         "utc" : "2019-12-31 03:11:31"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:JUST:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "15",
+         "crypt_key" : "R3IA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "text" : "Deluge over a city",
+         "utc" : "2019-12-31 03:14:40"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:JUST:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "slot_id" : "slot4-alt",
+         "smoke_screen" : "...",
+         "text" : "Vitruvian Man (Scorpio)",
+         "utc" : "2019-12-31 03:14:06"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:JUST:slot5",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "20",
+         "bestow_prizes" : "FINISHED_JUST_PLAY",
+         "crypt_key" : "WWK5",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "slot_id" : "slot5",
+         "text" : "Vitruvian Man",
+         "utc" : "2019-12-31 03:16:00"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:KEEP:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_level" : "4",
+         "bestow_points" : "4",
+         "crypt_key" : "4321",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot1-alt",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "One of the letters in the dirt is unreadable.",
+         "utc" : "2019-12-29 22:43:35"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:KEEP:slot1-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "53CA",
+         "read_level" : "5",
+         "slot_id" : "slot1-alt",
+         "text" : "5?CA",
+         "utc" : "2019-12-29 22:32:15"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:KEEP:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "5TCA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Dear Bela,  follow my clues.",
+         "utc" : "2019-12-29 22:43:14"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:KEEP:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "5TCA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "They will lead you to the briar patch.",
+         "utc" : "2019-12-29 22:32:40"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:KEEP:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_room_passes" : "AWAY",
+         "crypt_key" : "5TCA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "All my love - Luca",
+         "utc" : "2019-12-29 22:45:27"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:KEEP:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "5TCA",
+         "read_level" : "5",
+         "slot_id" : "slot4-alt",
+         "text" : "kk. (keep the key)",
+         "utc" : "2019-12-30 02:51:11"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:KEEP:slot5",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "5TCA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot5-alt",
+         "slot_id" : "slot5",
+         "smoke_screen" : "...",
+         "text" : "I'm not too far away.",
+         "utc" : "2019-12-30 02:51:32"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:KEEP:slot5-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_room" : "AWAY",
+         "read_level" : "5",
+         "slot_id" : "slot5-alt",
+         "smoke_screen" : "...",
+         "text" : "I'm not too far away.",
+         "utc" : "2019-12-29 22:30:08"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:KILL:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "You see someting scratched in the dirt.",
+         "utc" : "2019-12-28 20:40:42"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:KILL:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_room" : "SKIN",
+         "read_level" : "2",
+         "slot_id" : "slot4-alt",
+         "text" : "SKIN",
+         "utc" : "2019-12-28 20:42:55"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:LOST:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "You see something scratched in the dirt.",
+         "utc" : "2019-12-28 21:02:37"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:LOST:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Dear Bela, follow my clues.",
+         "utc" : "2019-12-28 21:19:30"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:LOST:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "They will lead you to the briar patch.",
+         "utc" : "2019-12-28 21:22:43"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:LOST:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "bestow_room_passes" : "FARE",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "All my love - Luca",
+         "utc" : "2019-12-28 21:29:28"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:LOST:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_room" : "FARE",
+         "read_level" : "2",
+         "slot_id" : "slot4-alt",
+         "smoke_screen" : "...",
+         "text" : "FARE",
+         "utc" : "2019-12-28 20:58:58"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:LOVE:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "You see something scratched in the dirt.",
+         "utc" : "2019-12-28 21:03:30"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:LOVE:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Dear Bela, follow my clues.",
+         "utc" : "2019-12-28 21:19:58"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:LOVE:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "They will lead you to the briar patch.",
+         "utc" : "2019-12-28 21:23:30"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:LOVE:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "bestow_room_passes" : "LUCA",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "All my love - Luca",
+         "utc" : "2019-12-28 21:31:21"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:LOVE:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_room" : "LUCA",
+         "read_level" : "2",
+         "slot_id" : "slot4-alt",
+         "text" : "LUCA",
+         "utc" : "2019-12-28 21:00:35"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:LUCA:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "You see something scratched in the dirt.",
+         "utc" : "2019-12-28 21:03:45"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:LUCA:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Dear Bela, follow my clues.",
+         "utc" : "2019-12-28 21:20:05"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:LUCA:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "They will lead you to the briar patch.",
+         "utc" : "2019-12-28 21:23:48"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:LUCA:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "bestow_room_passes" : "PAIN",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "All my love - Luca",
+         "utc" : "2019-12-28 21:31:40"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:LUCA:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_room" : "PAIN",
+         "read_level" : "2",
+         "slot_id" : "slot4-alt",
+         "text" : "PAIN",
+         "utc" : "2019-12-28 21:00:54"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:MEAT:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_room" : "BOOT",
+         "read_level" : "2",
+         "slot_id" : "slot4-alt",
+         "text" : "BOOT",
+         "utc" : "2019-12-28 20:44:14"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:NARD:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_level" : "7",
+         "bestow_points" : "7",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot1-alt",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "You see a few letters in the dirt.",
+         "utc" : "2019-12-30 03:47:31"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:NARD:slot1-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "GBEJ",
+         "read_level" : "8",
+         "slot_id" : "slot1-alt",
+         "text" : "GB??",
+         "utc" : "2019-12-30 04:01:46"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:NARD:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "GBEJ",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot2-alt",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Dear Bela,  follow my clues.",
+         "utc" : "2019-12-30 04:02:07"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:NARD:slot2-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "GBEC",
+         "read_level" : "0",
+         "slot_id" : "slot2-alt",
+         "smoke_screen" : "...",
+         "text" : "Tap here, then tap the blue skull",
+         "utc" : "2019-12-30 04:04:27"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:NARD:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "GBEJ",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot3-alt",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "They will lead you to the briar patch.",
+         "utc" : "2019-12-30 04:02:14"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:NARD:slot3-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "slot_id" : "slot3-alt",
+         "text" : "until you see the moon clearly.",
+         "utc" : "2019-12-31 01:36:38"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:NARD:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "GBEJ",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "All my love - Luca",
+         "utc" : "2019-12-30 12:36:44"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:NARD:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "HBEC",
+         "read_level" : "8",
+         "slot_id" : "slot4-alt",
+         "text" : "Then change swiftness to strength",
+         "utc" : "2019-12-31 01:37:01"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:NARD:slot5",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_room_passes" : "OHNO",
+         "crypt_key" : "HBEC",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot5-alt",
+         "slot_id" : "slot5",
+         "smoke_screen" : "...",
+         "text" : "Oh No!",
+         "utc" : "2019-12-30 12:37:36"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:NARD:slot5-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "AAAA",
+         "link_room" : "OHNO",
+         "read_level" : "8",
+         "slot_id" : "slot5-alt",
+         "text" : "Oh No! rk.",
+         "utc" : "2019-12-30 19:52:18"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OHMY:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_level" : "1",
+         "bestow_points" : "1",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot1-alt",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "You see something scratched in the dirt.",
+         "utc" : "2019-12-29 20:57:45"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OHMY:slot1-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "AABB",
+         "read_level" : "2",
+         "slot_id" : "slot1-alt",
+         "text" : "AABB",
+         "utc" : "2019-12-29 20:59:23"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OHMY:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "AABB",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Dear Bela,  follow my clues.",
+         "utc" : "2019-12-29 21:49:22"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OHMY:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "AABB",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot3",
+         "smoke_screen" : "qui non c'e niente",
+         "text" : "They will lead you to the briar patch.",
+         "utc" : "2019-12-29 21:49:49"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OHMY:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "AABB",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "All my love - Luca",
+         "utc" : "2019-12-29 21:51:18"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OHMY:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "BBAA",
+         "read_level" : "2",
+         "slot_id" : "slot4-alt",
+         "text" : "rv. (Reverse the key)",
+         "utc" : "2019-12-29 21:13:16"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OHMY:slot5",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_room_passes" : "DONT",
+         "crypt_key" : "BBAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "100",
+         "replace_text_id" : "slot5-alt",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot5",
+         "smoke_screen" : "...",
+         "text" : "DONT worry about a thing.",
+         "utc" : "2019-12-29 21:50:33"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OHMY:slot5-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_room" : "DONT",
+         "read_level" : "2",
+         "slot_id" : "slot5-alt",
+         "text" : "DONT worry about a thing.",
+         "utc" : "2019-12-29 21:22:31"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OHNO:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_level" : "8",
+         "bestow_points" : "8",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot1-alt",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "You see someting scratched in the dirt.",
+         "utc" : "2019-12-30 12:41:22"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OHNO:slot1-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "BLSB",
+         "read_level" : "9",
+         "slot_id" : "slot1-alt",
+         "text" : "B??B (First find the letters, then unscramble)",
+         "utc" : "2019-12-31 01:46:51"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OHNO:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "BLSB",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot2-alt",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Dear Bela, follow my clues.",
+         "utc" : "2019-12-31 01:46:33"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OHNO:slot2-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "LHTK",
+         "read_level" : "9",
+         "slot_id" : "slot2-alt",
+         "text" : "L ook Harder for T he K ey",
+         "utc" : "2019-12-30 12:48:10"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OHNO:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "BLSB",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "They will lead you to the briar patch.",
+         "utc" : "2019-12-30 14:37:28"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OHNO:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "BLSB",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "All my love - Luca",
+         "utc" : "2019-12-31 01:47:38"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OHNO:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "LHTK",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "NTGT",
+         "read_level" : "9",
+         "slot_id" : "slot4-alt",
+         "text" : "Now Things start to Get Tricky",
+         "utc" : "2019-12-30 14:35:14"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OHNO:slot5",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_room_passes" : "HEIS",
+         "crypt_key" : "NTGT",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot5",
+         "smoke_screen" : "...",
+         "text" : "Honesty Exists In Silence",
+         "utc" : "2019-12-31 01:51:32"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OHNO:slot5-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_key" : "AAAA",
+         "link_room" : "HEIS",
+         "read_level" : "9",
+         "slot_id" : "slot5-alt",
+         "text" : "Honesty Exists In Silence",
+         "utc" : "2019-12-31 01:52:02"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OVER:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "You see someting scratched in the dirt.",
+         "utc" : "2019-12-28 20:57:27"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OVER:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Dear Bela, follow my clues.",
+         "utc" : "2019-12-28 21:19:07"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OVER:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "They will lead you to the briar patch.",
+         "utc" : "2019-12-28 21:22:22"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OVER:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "bestow_room_passes" : "HOPE",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "All my love - Luca",
+         "utc" : "2019-12-28 21:28:24"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:OVER:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_room" : "HOPE",
+         "read_level" : "2",
+         "slot_id" : "slot4-alt",
+         "text" : "HOPE",
+         "utc" : "2019-12-28 20:57:49"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:PAIN:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "You see something scratched in the dirt.",
+         "utc" : "2019-12-28 21:03:54"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:PAIN:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Dear Bela, follow my clues.",
+         "utc" : "2019-12-28 21:20:13"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:PAIN:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "They will lead you to the briar patch.",
+         "utc" : "2019-12-28 21:24:04"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:PAIN:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "bestow_room_passes" : "DEAD",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "All my love - Luca",
+         "utc" : "2019-12-28 21:32:25"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:PAIN:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_room" : "DEAD",
+         "read_level" : "2",
+         "slot_id" : "slot4-alt",
+         "text" : "DEAD",
+         "utc" : "2019-12-28 21:01:13"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:PASS:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_room_passes" : "TREE",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "text" : "room pass TREE",
+         "utc" : "2019-12-15 15:48:14"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:PASS:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_room_passes" : "TREE, BLUE",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "slot_id" : "slot2",
+         "text" : "room pass TREE, BLUE",
+         "utc" : "2019-12-15 15:48:53"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:PASS:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_room_passes" : "WELL",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "slot_id" : "slot3",
+         "text" : "room pass WELL",
+         "utc" : "2019-12-15 15:49:31"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:PASS:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_room_passes" : "TREE, BLUE, WELL",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "TREE, BLUE, WELL",
+         "utc" : "2019-12-15 15:50:00"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:PASS:slot5",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_room_passes" : "OHMY,DONT, COME,KEEP,AWAY, FROM,NARD,HUNT,KILL, SKIN,MEAT,BOOT,OHNO, HEIS,HERE,ITIS, OVER,PAIN,DEAD",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "0",
+         "slot_id" : "slot5",
+         "smoke_screen" : "...",
+         "text" : "All Passes",
+         "utc" : "2019-12-15 15:52:32"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:SKIN:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_room" : "MEAT",
+         "read_level" : "2",
+         "slot_id" : "slot4-alt",
+         "text" : "MEAT",
+         "utc" : "2019-12-28 20:43:45"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:WELL:slot1",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "room_flags" : "LOCKED",
+         "slot_id" : "slot1",
+         "smoke_screen" : "...",
+         "text" : "You see something scratched in the dirt.",
+         "utc" : "2019-12-28 21:03:03"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:WELL:slot2",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot2",
+         "smoke_screen" : "...",
+         "text" : "Dear Bela, follow my clues.",
+         "utc" : "2019-12-28 21:19:47"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:WELL:slot3",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "slot_id" : "slot3",
+         "smoke_screen" : "...",
+         "text" : "They will lead you to the briar patch.",
+         "utc" : "2019-12-28 21:23:06"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:WELL:slot4",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "bestow_points" : "1",
+         "bestow_room_passes" : "BELA",
+         "crypt_key" : "AAAA",
+         "device_id" : "WEB-APP-DEVICE",
+         "read_level" : "20",
+         "replace_text_id" : "slot4-alt",
+         "slot_id" : "slot4",
+         "smoke_screen" : "...",
+         "text" : "All my love - Luca",
+         "utc" : "2019-12-28 21:30:16"
+      }
+   },
+   {
+      "redis_key" : "1:nardo:WELL:slot4-alt",
+      "redis_value_object" : {
+         "author_level" : "100",
+         "device_id" : "WEB-APP-DEVICE",
+         "link_room" : "BELA",
+         "read_level" : "2",
+         "slot_id" : "slot4-alt",
+         "text" : "BELA",
+         "utc" : "2019-12-28 20:59:50"
+      }
+   },
+   {
+      "redis_key" : "banned:FLYPAPER",
+      "redis_value_object" : 1
+   }
+]
