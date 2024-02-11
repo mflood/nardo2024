@@ -1,5 +1,5 @@
 
 
 *.zip
-deploy
+lambda_package
 output.txt

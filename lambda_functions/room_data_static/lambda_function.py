@@ -1,5 +1,4 @@
 import json
-import redis
 import sys
 
 
@@ -12,7 +11,6 @@ def get_all_room_keys(redis_key: str):
     with open('backup.json', 'r') as file:
         data = json.load(file)
 
-
     return_set = []
     for item in data:
         if item['redis_key'].startswith(redis_key):
@@ -23,20 +21,30 @@ def get_all_room_keys(redis_key: str):
 
 def lambda_handler(event, context):
 
-    # Extract parameters from the Lambda event object
-    device_id = event.get('device_id')
-    version = event.get('version')
-    channel = event.get('channel')
-    room = event.get('room')
-    nardi = event.get('nardi')
+    try:
+        # Your function logic here
+        # Extract parameters from the Lambda event object
+        device_id = event.get('device_id')
+        version = event.get('version')
+        channel = event.get('channel')
+        room = event.get('room')
+        nardi = event.get('nardi')
 
 
-    room_data = get_room_data(device_id, version, channel, room, nardi)
+        room_data = get_room_data(device_id, version, channel, room, nardi)
 
-    return {
-        'statusCode': 200,
-        'body': json.dumps(room_data)
-    }
+        return {
+            'statusCode': 200,
+            'body': json.dumps(room_data)
+        }
+
+    except Exception as e:
+        print(f"Error: {str(e)}")
+        return {
+            'statusCode': 500,
+            'body': json.dumps('An error occurred' + str(e))
+        }
+
 
 
 def get_room_data(device_id, version, channel, room, nardi):
